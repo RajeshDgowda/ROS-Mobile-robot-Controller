@@ -44,4 +44,3 @@ Although this package is written for the `Turtlebot3 Waffle` robot, it can be ea
 - [ ] Change PID control from hardcode to [ROS PID package](http://wiki.ros.org/pid).
 - [ ] Add support for custom goal points using `Rviz: 2D Nav Goal`. 
 
-# ROS-Mobile-robot-Controller
