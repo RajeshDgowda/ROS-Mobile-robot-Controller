@@ -38,9 +38,4 @@ Although this package is written for the `Turtlebot3 Waffle` robot, it can be ea
 - The `hybridAutomata.h` file is where the switching logic resides. The class `hybrid_automata` is what you can modify to implement your own custom switching logic.
 
 
-# To-Do
-- [x] Add demo clips.
-- [ ] Add examples for wall following.
-- [ ] Change PID control from hardcode to [ROS PID package](http://wiki.ros.org/pid).
-- [ ] Add support for custom goal points using `Rviz: 2D Nav Goal`. 
 
